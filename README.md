@@ -69,7 +69,11 @@ This project is a real-time hand gesture recognition system that uses computer v
 - Builds a Convolutional Neural Network (CNN)
 - Trains and validates the gesture recognition model
 - Saves the best performing model
-### Some Testing Results
+### Model Architecture
+<img src="https://github.com/user-attachments/assets/6f82f1ee-f4f0-4d5b-b349-76d57b817959" alt="Image 1" width="900"/>
+
+### Few Testing Results
+<img src="https://github.com/user-attachments/assets/96399dd8-9fb6-4bdd-96c8-b7bb46fc11d4" alt="Image 1" width="900"/>
 
 ### 3. Live Classification (`live_cam_test.py`)
 - Loads pre-trained model
